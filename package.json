@@ -1,0 +1,33 @@
+{
+  "name": "merntaskservidor",
+  "version": "1.0.0",
+  "description": "MERN API para MERN TASKS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julietalazzaro/MERNTasks-servidor.git"
+  },
+  "keywords": [
+    "MERN",
+    "proyectos",
+    "node",
+    "api"
+  ],
+  "author": "Julieta Lazzaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julietalazzaro/MERNTasks-servidor/issues"
+  },
+  "homepage": "https://github.com/julietalazzaro/MERNTasks-servidor#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6"
+  }
+}
